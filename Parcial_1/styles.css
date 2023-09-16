@@ -1,0 +1,94 @@
+.productos {
+    background-color: rgb(242, 230, 207);
+    text-align: center;
+    padding: 40px;
+}
+
+.colaboradores {
+    background-color: rgb(222, 245, 253);
+    text-align: center;
+    padding: 40px;
+}
+
+.box {
+    background-color: #ffffff;
+    padding: 20px;
+    margin: 10px;
+    display: inline-block;
+    width: calc(33.33% - 20px); 
+    vertical-align: top;
+    background-color: rgb(17, 76, 95);
+}
+
+
+.box-imagen {
+    background-color: rgb(17, 76, 95);
+    padding: 20px;
+    margin: 10px;
+    display: inline-block;
+    width: calc(40% - 20px); 
+    vertical-align: top;
+    text-align: center;
+}
+
+
+.box-imagen img {
+    max-width: 200%;
+    height: auto;
+}
+
+
+.contenedor-botones {
+    background-color: rgb(91, 155, 250);
+    padding: 60xp;
+    color: rgb(0, 0, 0);
+    border: 3px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: left;
+    padding: 20px;
+
+}
+
+.box-imagen{
+    max-width: 100%;
+    text-align: center;
+}
+
+
+
+.contenedor-botones a{
+    background-color: rgb(17, 76, 95);
+    width: max-content;
+    text-decoration-color: rgb(241, 239, 239);
+    padding-inline-end: 5%;
+    color: #ffffff;
+    padding: 10px;
+    text-align: center;
+}
+
+
+.whatsapp-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    text-decoration: none;
+}
+
+
+.home-button {
+    position: fixed;
+    bottom: 60px;
+    right: 50px;
+    background-color: rgb(17, 76, 95);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    text-decoration: none;
+}
+
+
